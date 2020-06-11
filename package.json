@@ -1,5 +1,5 @@
 {
-  "name": "raxarestapi",
+  "name": "postgres-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.com:caarya-engineering/gmr-raxa/raxa-backend/raxarestapi.git"
   },
   "author": "antailbaxt3r",
   "license": "ISC",
